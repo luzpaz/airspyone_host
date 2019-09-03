@@ -6,7 +6,7 @@ A tiny and efficient software defined radio.
 This repository contains host software (Linux/Windows) for AirSpy, a project to
 produce a low cost, open source software radio platform.
 
-AirSpy: http://www.airspy.com
+Official Website: https://www.airspy.com
 
 ## How to build host software on Windows:
 
