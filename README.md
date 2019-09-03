@@ -124,8 +124,4 @@ Debug version:
 ## Principal authors:
 
 Benjamin Vernoux <bvernoux@airspy.com> and Youssef Touil <youssef@airspy.com> 
-
-
-http://www.airspy.com
-
 This file is part of AirSpy (based on HackRF project see http://greatscottgadgets.com/hackrf/).
